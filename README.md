@@ -3,7 +3,7 @@ Welcome to my data portfolio. I've arranged a collection of my data projects.
 # SQL
 | Project Link  |      Area of Analysis      |  Project Details |
 |:----------:|:-------------:|:------:|
-| "Link1" |  Health Analysis, data cleaning | Imported a synthetic healthcare dataset from kaggle.com into MySQL. I modified the patient names to proper form with first letter capitalization, and set the billing amount to two decimal points. I then performed several queries on the health data to find information. |
+| [Healthcare](https://github.com/ZachH720/healthcare-sql) |  Health Analysis, data cleaning | Imported a synthetic healthcare dataset from kaggle.com into MySQL. I modified the patient names to proper form with first letter capitalization, and set the billing amount to two decimal points. I then performed several queries on the health data to find information. |
 | "Link2" |    Data analysis, data cleaning, data transformation   |  TBD |
 | "Link3" | Data cleaning, data analysis |   TBD |
 ____
