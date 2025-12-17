@@ -20,10 +20,4 @@ ____
 | "Link1" |  TBD | TBD |
 | "Link2" |  TBD | TBD |
 | "Link3" |  TBD | TBD |
-____
-# Java
-| Project Link  |      Area of Analysis      |  Project Details |
-|:----------:|:-------------:|:------:|
-| "Link1" |  TBD | TBD |
-| "Link2" |  TBD | TBD |
-| "Link3" |  TBD | TBD |
+
